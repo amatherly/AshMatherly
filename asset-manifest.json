@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/AshMatherly/static/css/main.e05d2b65.css",
+    "main.js": "/AshMatherly/static/js/main.ff1d1166.js",
+    "static/js/453.aac68abc.chunk.js": "/AshMatherly/static/js/453.aac68abc.chunk.js",
+    "static/media/headshot.png": "/AshMatherly/static/media/headshot.a5289131b7d7c19b2f3a.png",
+    "static/media/logo.svg": "/AshMatherly/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AshMatherly/index.html",
+    "main.e05d2b65.css.map": "/AshMatherly/static/css/main.e05d2b65.css.map",
+    "main.ff1d1166.js.map": "/AshMatherly/static/js/main.ff1d1166.js.map",
+    "453.aac68abc.chunk.js.map": "/AshMatherly/static/js/453.aac68abc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e05d2b65.css",
+    "static/js/main.ff1d1166.js"
+  ]
+}
