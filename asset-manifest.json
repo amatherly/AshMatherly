@@ -1,17 +1,30 @@
 {
   "files": {
-    "main.css": "/AshMatherly/static/css/main.e05d2b65.css",
-    "main.js": "/AshMatherly/static/js/main.bbd6e1c4.js",
+    "main.css": "/AshMatherly/static/css/main.ccc615f7.css",
+    "main.js": "/AshMatherly/static/js/main.088ba8a8.js",
     "static/js/453.aac68abc.chunk.js": "/AshMatherly/static/js/453.aac68abc.chunk.js",
+    "static/media/UnicornChroniclesPreview.mp4": "/AshMatherly/static/media/UnicornChroniclesPreview.08d755881db527c66005.mp4",
+    "static/media/MazeSS1.png": "/AshMatherly/static/media/MazeSS1.7f103f798e5ce591bcef.png",
+    "static/media/pier_ratz_ss2.png": "/AshMatherly/static/media/pier_ratz_ss2.f536c756f2b71ad3b8df.png",
+    "static/media/pier_ratz_ss1.png": "/AshMatherly/static/media/pier_ratz_ss1.3021a0a0c5d068e424a9.png",
+    "static/media/pier_ratz_ss.png": "/AshMatherly/static/media/pier_ratz_ss.4a8be77130e8f0de670b.png",
+    "static/media/MazeSS3.png": "/AshMatherly/static/media/MazeSS3.6d1c7fb87f437c39e7c5.png",
     "static/media/headshot.png": "/AshMatherly/static/media/headshot.a5289131b7d7c19b2f3a.png",
+    "static/media/MazeSS2.png": "/AshMatherly/static/media/MazeSS2.7eeb74cf34daa52520d4.png",
+    "static/media/linkedin.png": "/AshMatherly/static/media/linkedin.ae7513b8e5e826fe5abf.png",
+    "static/media/github.png": "/AshMatherly/static/media/github.55b5a1981f029cc4f9d5.png",
+    "static/media/PPA3.PNG": "/AshMatherly/static/media/PPA3.9476e4644bce340358e2.PNG",
+    "static/media/PPA1.PNG": "/AshMatherly/static/media/PPA1.6beeb4ec619c5df19acb.PNG",
+    "static/media/PPA2.PNG": "/AshMatherly/static/media/PPA2.6c9cdb6077a164a83fed.PNG",
+    "static/media/PPA\u0000#.PNG": "/AshMatherly/static/media/PPA#.56343ab74a89d6014f2f.PNG",
     "static/media/logo.svg": "/AshMatherly/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/AshMatherly/index.html",
-    "main.e05d2b65.css.map": "/AshMatherly/static/css/main.e05d2b65.css.map",
-    "main.bbd6e1c4.js.map": "/AshMatherly/static/js/main.bbd6e1c4.js.map",
+    "main.ccc615f7.css.map": "/AshMatherly/static/css/main.ccc615f7.css.map",
+    "main.088ba8a8.js.map": "/AshMatherly/static/js/main.088ba8a8.js.map",
     "453.aac68abc.chunk.js.map": "/AshMatherly/static/js/453.aac68abc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e05d2b65.css",
-    "static/js/main.bbd6e1c4.js"
+    "static/css/main.ccc615f7.css",
+    "static/js/main.088ba8a8.js"
   ]
 }
