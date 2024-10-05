@@ -10,7 +10,8 @@ const Header = ({ aboutMeRef, resumeRef, projectsRef }) => {
         <div className={"navbar"}>
             <button onClick={() => scrollToRef(aboutMeRef)}>About</button>
             <button onClick={() => scrollToRef(projectsRef)}>Projects</button>
-            <button onClick={() => scrollToRef(resumeRef)}>Resume</button>
+            <button onClick={() => scrollToRef(resumeRef)}>Experience</button>
+
         </div>
     );
 
